@@ -21,8 +21,8 @@
  
  # Project Details:
  
- [Project plan]([url](https://github.com/bbbbangppppang/MDS-606-Group8/blob/20ab46396d2a7cffdf329b8760f69fc8460d73ac/ProjectPlan.md#project-plan))
- Literature Review
+ [Project plan](ProjectPlan.md)
+ [Literature Review](
  Survey Design
  Data Analysis
  Research Ethics Approval
