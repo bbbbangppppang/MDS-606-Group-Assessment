@@ -4,14 +4,14 @@
 
 This is the research project journal of Group 8 for SPl MDS606 Data Science Research and Ethics.
 
-Research topic:
+Research topic: add<br/>
 Investigate the impact of Generative AI in Education 
  
 
 # Project Description
 
-Research question:
-Hypothesis:
+Research question: add<br/>
+Hypothesis: add<br/>
 
 # Details of group members:
 
