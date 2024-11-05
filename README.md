@@ -21,13 +21,13 @@
  
  # Project Details:
  
- [Project plan](ProjectPlan.md)
- [Literature Review](
- Survey Design
- Data Analysis
- Research Ethics Approval
- Research Proposal
- Project Reflection
+ [Project plan](ProjectPlan.md) <br/>
+ [Literature Review](LiteratureReview.md) <br/>
+ [Survey Design](SurveyDesign.md)  <br/>
+ [Data Analysis](DataAnalysis.md)
+ [Research Ethics Approval](ResearchEthicsApproval.md)
+ [Research Proposal](ResearchProposal.md)
+ [Project Reflection](ProjectReflection.md)
 
 
 
