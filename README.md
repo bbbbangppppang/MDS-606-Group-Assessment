@@ -1,4 +1,4 @@
-# MDS-606-Group-Assessment
+# MDS-606-Group8-Assessment
 
  # **Overview of the project**
  
