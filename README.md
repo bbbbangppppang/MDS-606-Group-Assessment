@@ -24,10 +24,10 @@
  [Project plan](ProjectPlan.md) <br/>
  [Literature Review](LiteratureReview.md) <br/>
  [Survey Design](SurveyDesign.md)  <br/>
- [Data Analysis](DataAnalysis.md)
- [Research Ethics Approval](ResearchEthicsApproval.md)
- [Research Proposal](ResearchProposal.md)
- [Project Reflection](ProjectReflection.md)
+ [Data Analysis](DataAnalysis.md)  <br/>
+ [Research Ethics Approval](ResearchEthicsApproval.md) <br/>
+ [Research Proposal](ResearchProposal.md) <br/>
+ [Project Reflection](ProjectReflection.md) <br/>
 
 
 
