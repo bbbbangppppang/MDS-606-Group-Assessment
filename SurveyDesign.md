@@ -1,5 +1,5 @@
 # Data Sources:
-· Government and Educational Reports: These will provide baseline data on educational outcomes, infrastructure, and access to technology in underdeveloped/developing countries.
+· Government and Educational Reports: These will provide baseline data on educational outcomes, infrastructure, and access to technology in underdeveloped/developing countries. </br>
 · School Surveys: Surveys from teachers, students, and administrators across various regions (urban and rural) will help assess perceptions of AI's impact on education.
 · AI Tool Usage Data: Information on how frequently and effectively Generative AI tools are being used in schools, including the type of AI tools (e.g., AI-powered tutoring systems, educational content generation platforms) employed.
 · Academic Performance Data: Academic scores, attendance records, and test results from schools that have adopted AI tools versus those that have not.
